@@ -14,23 +14,23 @@ This is a simple To-Do List application built with React. It allows users to add
 
 To get this project running on your local machine, follow these steps:
 
-1. Clone the repository:
+   1. Clone the repository:
    ```
    git clone [repository name]
    ```
-
-2. Navigate into the project directory:
-    ```
+   
+   2. Navigate into the project directory:
+   ```
    cd To-Do-List
-    ```
-3. Install the required dependencies:
-  ```
-  npm install
-  ```
-4.Run the application:
-  ```
-  npm start
-  ```
+   ```
+   3. Install the required dependencies:
+   ```
+   npm install
+   ```
+   4.Run the application:
+   ```
+   npm start
+   ```
 
 ## Usage
 
