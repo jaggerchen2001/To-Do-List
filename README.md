@@ -29,7 +29,7 @@ To get this project running on your local machine, follow these steps:
    ```
    4.Run the application:
    ```
-   npm start
+   npm run dev
    ```
 
 ## Usage
