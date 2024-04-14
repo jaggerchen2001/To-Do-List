@@ -1,0 +1,15 @@
+.custom-margin-top {
+  margin-top: 10rem;
+}
+
+.custom-font-size {
+  font-size: 3rem;
+}
+
+.btn {
+  margin-left: 0.25rem;
+}
+
+.text {
+  flex: 1;
+}
